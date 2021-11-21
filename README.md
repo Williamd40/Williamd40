@@ -6,7 +6,7 @@
 
 ##
 
-- 🌱 I’m currently learning R studio, Bash, and Python 🤣
+- 🌱 I’m currently learning R studio, Bash, and Python
 - 🥅 2022 Goals: Also attempt to learn an additional language.
 - ⚡ Fun fact: I am also a budding powerlifter, with aims to compete one day.
 
@@ -28,18 +28,5 @@
 <br />
 <br />
 
----
-
-
-
-
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Williamd40's GitHub Stats" src="https://github-readme-stats.Williamd40.vercel.app/api?username=Williamd40&show_icons=true&hide_border=true" />
-
-</details>
 
 [linkedin]: https://www.linkedin.com/in/william-dalessandro/
