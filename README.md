@@ -7,8 +7,8 @@
 ##
 
 -  I’m currently learning R studio, Bash, and Python
--  2022 Goals: Also attempt to learn an additional language.
--  Fun fact: I am also a budding powerlifter, with aims to compete one day.
+-  My goals for 2022: To learn an additional language, and pursue a career as a proficient Data Analyst.
+-  A lil' on the side: I am also a budding powerlifter, with aims to compete one day.
 
 ### My current Socials:
 
