@@ -6,7 +6,7 @@
 
 ## About me:
 
--  I’m currently learning R studio, Bash, and Python
+-  I’m currently learning R studio, Bash, and Python.
 -  My goals for 2022: To learn an additional language, and pursue a career as a proficient Data Analyst.
 -  A lil' on the side: I am also a budding powerlifter, with aims to compete one day.
 
