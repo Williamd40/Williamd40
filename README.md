@@ -6,8 +6,9 @@
 
 ## About me:
 
--  I’m currently learning R studio, Bash, Python, HTML, JavaScript, SQL, and CSS.
--  My goals for 2022: To learn an additional language, and pursue a career as a proficient Data Analyst.
+-  I’m currently learning R, Bash, Python, HTML, JavaScript, SQL, and CSS.
+-  My goals for 2022: 
+> -  To learn an additional language, and pursue a career as a proficient Data Analyst.
 -  A lil' on the side: I am also a budding powerlifter, with aims to compete one day.
 
 ### My current Socials:
