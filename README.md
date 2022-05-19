@@ -6,7 +6,8 @@
 
 ## About me:
 
--  I’m currently learning R, Bash, Python, HTML, JavaScript, SQL, and CSS.
+-  I primarily code in R, Bash, and Python.
+-  I am also learning HTML, JavaScript, SQL, C++, and CSS.
 -  My current goals for 2022: 
 > - To build my own website,
 > - Pursue a career within data analysis and software development.
