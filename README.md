@@ -1,4 +1,4 @@
-### Hello all, I'm Will. A Bioinformatics MSc Student currently at the University of Bristol👋 
+### Hello all, I'm Will. A Data Scientist and Python Developer working with the Internet of Things👋 
 
 [![linkedin](https://img.shields.io/badge/My%20Linkedin-Link-green)](https://www.linkedin.com/in/william-dalessandro/)
 
@@ -6,11 +6,8 @@
 
 ## About me:
 
--  I primarily code in R, Bash, and Python.
--  I am also learning HTML, JavaScript, SQL, C++, and CSS.
--  My current goals for 2022: 
-> - To build my own website,
-> - Pursue a career within data analysis and software development.
+-  I primarily code in SQL, KQL, Bash, and Python.
+-  I am also learning HTML, JavaScript, C++, and CSS.
 -  A lil' on the side: I am also a budding powerlifter, with aims to compete one day.
 
 ### My current Socials:
