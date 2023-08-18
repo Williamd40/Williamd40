@@ -1,4 +1,4 @@
-### Hello all, I'm Will. A Data Scientist and Python Developer working with the Internet of Things👋 
+### Hello all, I'm Will. A Data Scientist and Python Developer working within the Internet of Things👋 
 
 [![linkedin](https://img.shields.io/badge/My%20Linkedin-Link-green)](https://www.linkedin.com/in/william-dalessandro/)
 
@@ -8,7 +8,7 @@
 
 -  I primarily code in SQL, KQL, Bash, and Python.
 -  I am also learning HTML, JavaScript, C++, and CSS.
--  A lil' on the side: I am also a budding powerlifter, with aims to compete one day.
+-  A lil' on the side: I am also a budding powerlifter and kickboxer, with aims to compete one day.
 
 ### My current Socials:
 
