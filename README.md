@@ -1,4 +1,4 @@
-### Hello all, I'm Will. A Data Scientist and Python Developer working within the Internet of Things👋 
+### Hello all, I'm Will. A Data Scientist and Python Developer👋 
 
 [![linkedin](https://img.shields.io/badge/My%20Linkedin-Link-green)](https://www.linkedin.com/in/william-dalessandro/)
 
