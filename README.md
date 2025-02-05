@@ -6,8 +6,18 @@
 
 ## About me:
 
--  I primarily code in SQL, KQL, Bash, and Python.
--  I am also learning HTML, JavaScript, C++, and CSS.
+-  I code in:
+   - SQL
+   - KQL
+   - Bash
+    - AZ cli
+    - Func CLI
+   - Python
+   - HTML
+   - JavaScript
+   - C++
+   - CSS
+   - Jinja
 -  A lil' on the side: I am also a budding powerlifter and kickboxer, with aims to compete one day.
 
 ### My current Socials:
