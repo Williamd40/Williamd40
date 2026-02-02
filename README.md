@@ -1,4 +1,4 @@
-### Hello all, I'm Will. A Data Scientist and Python Developer👋 
+### Hello all, I'm Will. A Technical Lead, AI enthusiast and Full Stack Developer👋 
 
 [![linkedin](https://img.shields.io/badge/My%20Linkedin-Link-green)](https://www.linkedin.com/in/william-dalessandro/)
 
